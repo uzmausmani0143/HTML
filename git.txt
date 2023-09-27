@@ -1,0 +1,17 @@
+1. Sign In to github.com
+ 
+2. Create a repository by clicking NEW or + button
+ 
+3. Upload created index.html/multimedia files by clicking on "Add File" button
+ 
+4. Click on "Commit Changes"
+ 
+5. For hosting... Click on "Settings" tab
+ 
+6. Click on "Pages" under Code and automation segment in the navigation section
+ 
+7. Select "main" branch and Save
+ 
+8. Wait for sometime to get the URL. Then, click the url to open the page
+ 
+9. Congratulation! You have successfully hosted your first website

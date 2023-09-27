@@ -1,0 +1,26 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+    <head>
+        <title> CSS background-clip </title>   
+<style> 
+
+#demo1{
+border:15px dotted green;
+padding: 12px;
+background:red;
+background-clip:clip:border-box;
+}
+#demo1{
+border:15px dotted green;
+padding: 12px;
+background:red;
+background-clip:clip:border-box;
+}
+#demo1{
+border:15px dotted green;
+padding: 12px;
+background:red;
+background-clip:clip:border-box;
+}
+</style>		
+ 
